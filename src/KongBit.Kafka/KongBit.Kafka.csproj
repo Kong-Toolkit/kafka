@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PackageId>KongBit.Kafka</PackageId>
+        <Version>0.0.2</Version>
+        <Authors>KongBit</Authors>
+        <Product>Kafka</Product>
+    </PropertyGroup>
+
+</Project>
